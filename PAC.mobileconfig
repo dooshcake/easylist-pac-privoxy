@@ -30,7 +30,7 @@
 
 			<key>ProxyPACURL</key>
 			<!-- REPLACE URL_TO_YOUR_PAC_FILE WITH THE LINK -->
-			<string> https://raw.githubusercontent.com/dooshcake/easylist-pac-privoxy/master/proxy.pac</string>
+			<string>https://raw.githubusercontent.com/dooshcake/easylist-pac-privoxy/master/proxy.pac</string>
 
 			<key>ProxyType</key>
 			<string>Auto</string>
